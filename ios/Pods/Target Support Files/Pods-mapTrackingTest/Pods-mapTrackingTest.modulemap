@@ -1,0 +1,6 @@
+module Pods_mapTrackingTest {
+  umbrella header "Pods-mapTrackingTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
